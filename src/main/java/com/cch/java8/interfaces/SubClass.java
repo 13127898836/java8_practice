@@ -1,4 +1,4 @@
-package com.cch.java8.optional;
+package com.cch.java8.interfaces;
 
 import com.cch.java8.interfaces.MyFunction;
 import com.cch.java8.interfaces.MyInterface;

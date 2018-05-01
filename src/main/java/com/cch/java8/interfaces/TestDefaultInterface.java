@@ -1,6 +1,5 @@
 package com.cch.java8.interfaces;
 
-import com.cch.java8.optional.SubClass;
 import org.junit.Test;
 
 /**
